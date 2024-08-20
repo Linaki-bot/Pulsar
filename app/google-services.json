@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972016454394",
+    "project_id": "pulsar-6eed1",
+    "storage_bucket": "pulsar-6eed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972016454394:android:517b1e11db151b5deb9743",
+        "android_client_info": {
+          "package_name": "com.example.pulsar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYi4c8iZgjmLqbdR4JcIS79-z8RQ1Lefc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
